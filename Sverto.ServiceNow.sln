@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sverto.ServiceNow", "Sverto.ServiceNow\Sverto.ServiceNow.csproj", "{D49D48ED-3904-4970-803A-F83717A3577B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_Core|Any CPU = Debug_Core|Any CPU
+		Debug_Net|Any CPU = Debug_Net|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D49D48ED-3904-4970-803A-F83717A3577B}.Debug_Core|Any CPU.ActiveCfg = Debug_Core|Any CPU
+		{D49D48ED-3904-4970-803A-F83717A3577B}.Debug_Core|Any CPU.Build.0 = Debug_Core|Any CPU
+		{D49D48ED-3904-4970-803A-F83717A3577B}.Debug_Net|Any CPU.ActiveCfg = Debug_Net|Any CPU
+		{D49D48ED-3904-4970-803A-F83717A3577B}.Debug_Net|Any CPU.Build.0 = Debug_Net|Any CPU
+		{D49D48ED-3904-4970-803A-F83717A3577B}.Release|Any CPU.ActiveCfg = Release_Core|Any CPU
+		{D49D48ED-3904-4970-803A-F83717A3577B}.Release|Any CPU.Build.0 = Release_Core|Any CPU
+		{8EE4ABB8-79BB-42AB-9735-7817FA131842}.Debug_Core|Any CPU.ActiveCfg = Debug_Core|Any CPU
+		{8EE4ABB8-79BB-42AB-9735-7817FA131842}.Debug_Core|Any CPU.Build.0 = Debug_Core|Any CPU
+		{8EE4ABB8-79BB-42AB-9735-7817FA131842}.Debug_Net|Any CPU.ActiveCfg = Debug_Net|Any CPU
+		{8EE4ABB8-79BB-42AB-9735-7817FA131842}.Debug_Net|Any CPU.Build.0 = Debug_Net|Any CPU
+		{8EE4ABB8-79BB-42AB-9735-7817FA131842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE4ABB8-79BB-42AB-9735-7817FA131842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92FC6BBE-3E9A-46B0-A726-B29081861DBB}
+	EndGlobalSection
+EndGlobal
