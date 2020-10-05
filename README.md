@@ -2,7 +2,7 @@
 Library that uses the ServiceNow Table API to get or create new records.
 
 ## Functionality
-- Create ServiceNow records of a predefined or your own object type by inheriting the [Record](./Sverto.ServiceNow/API/Record.cs) class
+- Create ServiceNow records (implement your own record type by inheriting [Record](./Sverto.ServiceNow/API/Record.cs))
 - Get ServiceNow records
 - Add attachments to existing records
 
